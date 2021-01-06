@@ -3,7 +3,9 @@
   <p>A React App which generates random quotes.</p>
 </div>
 
-[Live Demo](https://quote-generator-ebinjs.netlify.app/)
+## DEMO
+
+View [Quote-Generator](https://quote-generator-ebinjs.netlify.app/)
 
 ## WORKING
 
