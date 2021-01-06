@@ -44,7 +44,7 @@
   height: 70vh;
   width: 500px;
   border-radius: 50%;
-  background-color: #89CFF0;
+  background-color: #005e9c;
   color: #fff;
   display: flex;
   flex-direction: column;
@@ -72,7 +72,7 @@
   font-weight:450;
   font-size: 1.4rem;
   padding: 5% 1rem;
-  background-color: #a4dbe2;
+  background-color: #0099e0;
 }
 
 #button{
