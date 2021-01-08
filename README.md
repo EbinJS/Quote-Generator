@@ -1,6 +1,6 @@
 <h1 align="center">Quote-Generator</h1>
 <div align="center">
-  <p>A React App<img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="22" /> which generates random quotes.</p>
+  <p>A React App <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="22" /> which generates random quotes.</p>
 </div>
 
 ## DEMO
